@@ -43,8 +43,9 @@ Join Felix as he races against time and dodges incoming logs to reach safe land.
 
 ## Preview 
 
-![game-screenshot](screenshot.png)
-
+<p align="center">
+  <img src="screenshot.png" alt="game-screenshot" />
+</p>
 ---
 
 ## Tech Stack
