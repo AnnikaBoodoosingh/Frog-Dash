@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Log
+comment1.params=p\ xPos\ yPos\ speed
+comment1.target=Log(javax.swing.JPanel,\ int,\ int,\ int)
+comment2.params=g
+comment2.target=void\ draw(java.awt.Graphics)
+comment3.params=
+comment3.target=void\ move()
+comment4.params=
+comment4.target=java.awt.Rectangle\ getBounds()
+comment5.params=
+comment5.target=void\ run()
+numComments=6
