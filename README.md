@@ -8,13 +8,13 @@ Frog Dash is a fast-paced, reflex-testing arcade game featuring **Felix the Frog
 
 ---
 
-## 🎮 Game Concept
+## Game Concept
 
 Join Felix as he races against time and dodges incoming logs to reach safe land. Every jump counts, and every second matters! Test your reflexes, earn points, and help Felix return home before dinner time.
 
 ---
 
-## 🕹️ How to Play
+## How to Play
 
 - Use the **arrow keys** to move Felix: `↑ ↓ ← →`
 - **Start Button**: Begins the game and activates the countdown timer.
@@ -23,16 +23,16 @@ Join Felix as he races against time and dodges incoming logs to reach safe land.
 
 ---
 
-## 🧠 Game Rules
+## Game Rules
 
-- 🏃 **Avoid Logs**: If Felix hits a log, he loses 1 life and 5 points (score never goes below 0).
-- 🏞️ **Reach Land**: Gain **+50 points** for each successful crossing.
-- 🎯 **Boundaries**: Felix stays within the panel area.
-- ⏱️ **Timer**: Game lasts **30 seconds** or ends when 3 lives are lost.
+- **Avoid Logs**: If Felix hits a log, he loses 1 life and 5 points (score never goes below 0).
+- **Reach Land**: Gain **+50 points** for each successful crossing.
+- **Boundaries**: Felix stays within the panel area.
+- ⏱**Timer**: Game lasts **30 seconds** or ends when 3 lives are lost.
 
 ---
 
-## 💥 Game Over
+## Game Over
 
 - A message displays when time runs out or all lives are lost.
 - Players can hit **Replay** to start over with:
@@ -41,13 +41,13 @@ Join Felix as he races against time and dodges incoming logs to reach safe land.
 
 ---
 
-## 📸 Preview (Optional)
+## Preview 
 
 ![game-screenshot](screenshot.png)
 
 ---
 
-## 🔧 Tech Stack
+## Tech Stack
 
 - Java (Swing GUI)
 - Object-Oriented Programming
@@ -55,7 +55,7 @@ Join Felix as he races against time and dodges incoming logs to reach safe land.
 
 ---
 
-## 🚀 Get Started
+## Getting Started
 
 1. Clone or download the repository.
 2. Compile and run the main class:
